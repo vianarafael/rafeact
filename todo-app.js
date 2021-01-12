@@ -20,3 +20,5 @@ let Step1 = (
 );
 
 console.log(Step1);
+
+Rafeact.render(Step1, root);
